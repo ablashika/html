@@ -1,0 +1,26 @@
+.flex-container div {
+
+	height: 400px;
+	width: 400px;
+	background-color: red;
+	margin: 10px;
+	border-top-left-radius: 20px;
+}
+
+.flex-container {
+	display: flex;
+	flex-wrap:wrap; 
+	background-color: blue;
+	height: 100vh;
+	align-content: center;
+	justify-content: center;
+
+	
+
+}
+
+input {
+	border-top: 0px;
+	width: 500px;
+
+}
